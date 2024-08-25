@@ -21,9 +21,14 @@ This repository contains visualizations created using Tableau Public to analyze 
 
 ## Dashboard Preview
 Below is a snapshot of the final Tableau dashboard:
-(Airbnb Pricing and Revenue Analysis.png)
+-[Final Dashboard] 
+(https://github.com/Thiruvariyamuthu/Airbnb-Tableau-Project/blob/main/Airbnb%20Pricing%20and%20Revenue%20Analysis.png?raw=true)
 
 ## Dashboard Link
 You can explore the interactive dashboard on Tableau Public using the following link:
 -[View Dashboard on Tableau Public]
 (https://public.tableau.com/views/AirBnBfullProject_17245601391390/AirbnbPricingandRevenueAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Tools Used
+- **Tableau Public**: For data visualization and dashboard creation.
+- **GitHub**: For version control and project sharing.
